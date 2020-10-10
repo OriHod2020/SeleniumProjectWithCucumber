@@ -1,0 +1,152 @@
+2020-10-08 21:09:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-08 21:10:02 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2020-10-08 21:10:02 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-08 21:10:02 [INFO ] [Base] - [closeBrowser] Scenario Status is: failed
+2020-10-09 12:14:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 12:14:19 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started68217166
+2020-10-09 12:14:25 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 12:14:25 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2020-10-09 12:58:04 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 12:58:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 12:58:10 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-09 12:58:15 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 12:58:15 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-09 14:22:07 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 14:22:07 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 14:22:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-09 14:22:20 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 14:22:20 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2020-10-09 14:56:06 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 14:56:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 14:56:12 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-09 14:56:21 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 14:56:21 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-09 15:27:22 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 15:27:22 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 15:27:29 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-09 15:27:38 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 15:27:38 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-09 15:42:05 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 15:42:05 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 15:42:13 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-09 15:42:57 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 15:42:57 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 15:43:02 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-09 15:43:08 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2020-10-09 15:43:11 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 15:43:11 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-09 15:44:08 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 15:44:08 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 15:44:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-09 15:44:14 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 15:44:14 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2020-10-09 15:44:40 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 15:44:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 15:44:46 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-09 15:44:46 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 15:44:46 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2020-10-09 15:45:37 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 15:45:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 15:45:43 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-09 15:45:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 15:45:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-09 18:47:53 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 18:47:53 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 18:47:59 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-09 18:48:10 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 18:48:10 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2020-10-09 18:49:31 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 18:49:31 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 18:49:38 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-09 18:49:47 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 18:49:47 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-09 18:52:08 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 18:52:08 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 18:52:14 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-09 18:52:24 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 18:52:24 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2020-10-09 18:54:51 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 18:54:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 18:54:57 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-09 18:55:07 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 18:55:07 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2020-10-09 19:01:32 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 19:01:32 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-09 19:01:39 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-09 19:01:49 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-09 19:01:49 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-10 11:07:47 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not allowed to register due to skipping mandatory fields
+2020-10-10 11:07:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 11:07:56 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started83674409
+2020-10-10 11:08:05 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is not allowed to register due to skipping mandatory fields
+2020-10-10 11:08:05 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2020-10-10 11:28:17 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not allowed to register due to skipping mandatory fields
+2020-10-10 11:28:17 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 11:28:24 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started83674409
+2020-10-10 11:28:33 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is not allowed to register due to skipping mandatory fields
+2020-10-10 11:28:33 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-10 11:41:47 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for the Newsletter Subscription and providing all the details
+2020-10-10 11:41:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 11:41:53 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1273879638
+2020-10-10 11:42:05 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for the Newsletter Subscription and providing all the details
+2020-10-10 11:42:05 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2020-10-10 11:46:27 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for the Newsletter Subscription and providing all the details
+2020-10-10 11:46:27 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 11:46:33 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1273879638
+2020-10-10 11:46:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for the Newsletter Subscription and providing all the details
+2020-10-10 11:46:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-10 12:15:11 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-10 12:15:11 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 12:15:17 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-10 12:15:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-10 12:15:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2020-10-10 12:32:47 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-10 12:32:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 12:32:54 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-10 12:33:05 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-10 12:33:05 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2020-10-10 12:36:52 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-10 12:36:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 12:36:58 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started634156144
+2020-10-10 12:37:20 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-10 12:37:20 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-10 12:51:01 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-10 12:51:01 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 12:51:07 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started648358364
+2020-10-10 12:51:37 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-10 12:51:37 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-10 12:51:38 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not allowed to register due to skipping mandatory fields
+2020-10-10 12:51:38 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 12:51:42 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started525527919
+2020-10-10 12:51:58 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is not allowed to register due to skipping mandatory fields
+2020-10-10 12:51:58 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-10 12:51:59 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for the Newsletter Subscription and providing all the details
+2020-10-10 12:51:59 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 12:52:03 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started481402298
+2020-10-10 12:52:16 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for the Newsletter Subscription and providing all the details
+2020-10-10 12:52:16 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-10 12:52:17 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-10 12:52:17 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 12:52:20 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1531782631
+2020-10-10 12:52:36 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-10 12:52:36 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-10 15:03:18 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-10 15:03:18 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 15:03:25 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started648358364
+2020-10-10 15:04:19 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-10 15:04:19 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-10 15:04:20 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not allowed to register due to skipping mandatory fields
+2020-10-10 15:04:20 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 15:04:24 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started525527919
+2020-10-10 15:05:20 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is not allowed to register due to skipping mandatory fields
+2020-10-10 15:05:20 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-10 15:05:21 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by opting for the Newsletter Subscription and providing all the details
+2020-10-10 15:05:21 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 15:05:25 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started481402298
+2020-10-10 15:05:47 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by opting for the Newsletter Subscription and providing all the details
+2020-10-10 15:05:47 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2020-10-10 15:05:47 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the details
+2020-10-10 15:05:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2020-10-10 15:05:51 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1531782631
+2020-10-10 15:06:12 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the details
+2020-10-10 15:06:12 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
