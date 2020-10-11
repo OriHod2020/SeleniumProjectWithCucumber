@@ -9,7 +9,7 @@ Feature: Registration functionality scenarios
 			|LastName |Levi               |
 			|Email    |alexlevi6@gmail.com |
 			|Telephone|9720549843322      |
-			|Password |Alex               |
+			|Password |Alex              |
 		And I select the privacy policy button	
 		And I click on the Continue button
 		Then I should see that the user account has successfully created
