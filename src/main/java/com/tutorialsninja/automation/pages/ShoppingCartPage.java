@@ -1,26 +1,28 @@
 package com.tutorialsninja.automation.pages;
 
-
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.tutorialsninja.automation.base.Base;
+import com.tutorialsninja.automation.framework.Elements;
 
-public class ForgotPasswordPage {
+public class ShoppingCartPage {
 	
 	
-	public ForgotPasswordPage()
-	{
+	public ShoppingCartPage() {
+		
 		PageFactory.initElements(Base.driver, this);
 	}
 	
-	@FindBy(id="input-email")
-	public static WebElement emailFiled;
 	
-	@FindBy(css="input[type='submit'][value='Continue']")
-	public static WebElement continueButton;
+	@FindBy(linkText="Checkout")
+	public static WebElement checkOutButton;
 	
 	
+	public static void clickCheckOutButton() {
+		
+		Elements.click(checkOutButton);
+	}
 
 }

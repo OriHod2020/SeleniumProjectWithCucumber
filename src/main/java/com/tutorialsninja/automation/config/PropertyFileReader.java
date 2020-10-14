@@ -34,4 +34,54 @@ public class PropertyFileReader implements ConfigurationReader{
 	}
 
 	
+	public String getUsername() {
+		
+		return properties.getProperty("username");
+	}
+
+	
+	public String getPassword() {
+		
+		return properties.getProperty("password");
+		
+	}
+
+	
+	public String getProduct() {
+		
+		return properties.getProperty("product");
+	}
+	
+    public String getFirstName() {
+		
+		return properties.getProperty("firstname");
+	}
+    
+    public String getLastName() {
+	
+	return properties.getProperty("lastname");
+    }
+    
+    public String getAdress() {
+	
+	return properties.getProperty("address");
+    }
+    
+    public String getCity() {
+		
+		return properties.getProperty("city");
+	}
+    
+    
+    
+    public String getCountry() {
+	
+	return properties.getProperty("country");
+    }
+	
+	
+	
+	
+
+	
 	}

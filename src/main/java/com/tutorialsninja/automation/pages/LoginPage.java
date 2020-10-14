@@ -32,10 +32,20 @@ public class LoginPage {
 	
 	public static void doLoging(String email, String password) {
 		
-		Elements.TypeText(LoginPage.emailField, email);
-		Elements.TypeText(LoginPage.passwordField, password);
-		Elements.click(LoginPage.loginButton);
+		Elements.TypeText(emailField, email);
+		Elements.TypeText(passwordField, password);
+		Elements.click(loginButton);
 	}
+	
+	
+	public static void doLogin() {
+		
+		Elements.TypeText(emailField, Base.reader.getUsername());
+		Elements.TypeText(passwordField, Base.reader.getPassword());
+		Elements.click(loginButton);
+		
+	}
+	
 	
 	
 

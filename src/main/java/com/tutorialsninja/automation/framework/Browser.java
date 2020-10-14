@@ -60,6 +60,11 @@ public class Browser {
 		Base.driver.manage().window().maximize();
 	//	Base.driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 	}
+	
+	public static void openApplicationURL() {
+		
+		Base.driver.get(Base.reader.getUrl());
+	}
 
 	public static byte[] takeScreenshot() {
 		try {

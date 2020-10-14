@@ -78,9 +78,14 @@ public class RegisterPage {
 		Elements.TypeText(RegisterPage.confirmPassword, map.get("Password"));
 		
 		if(detailsType.equalsIgnoreCase("duplicate"))
-			Elements.TypeText(RegisterPage.email, map.get("Email"));
+			Elements.TypeText(email, map.get("Email"));
 		else
-			Elements.TypeText(RegisterPage.email, System.currentTimeMillis()+map.get("Email"));
+		{
+			//String name = System.currentTimeMillis()+map.get("Email");
+			//Elements.TypeText(RegisterPage.email, name);
+			Elements.TypeText(email, System.currentTimeMillis()+map.get("Email"));
+			
+		}
 			
 	}
 	

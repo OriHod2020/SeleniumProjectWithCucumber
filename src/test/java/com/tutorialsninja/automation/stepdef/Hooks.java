@@ -24,12 +24,13 @@ public class Hooks {
 	Browser.maximize();
 	}
 	@After
-	public void closeBrowser(Scenario scenario){
+	public void closeBrowser(Scenario scenario) throws InterruptedException{
 	if(scenario.isFailed()){
 	scenario.embed(Browser.takeScreenshot(), "image/png");
 	}
 	log.info("Scenario Completed: "+scenario.getName());
 	log.info("Scenario Status is: "+scenario.getStatus());
+	Thread.sleep(5000);
 	Base.driver.quit();
 	}
 
