@@ -3,7 +3,7 @@ Selenium Project: Selenium + Java + Cucumber + Maven + PageFactory
 
 This is a demo study project which automates the below web application:
 ----------------
-* [Go to the Application] (http://www.tutorialsninja.com/demo/)
+ http://www.tutorialsninja.com/demo/ 
 
 
 
@@ -17,7 +17,7 @@ Project Architecture:
 * **src/main/java/util** - This package contains PathHelper class which help to use the full path of the file.
 * **src/main/resources/ConfigarationFile** - This package contains config.properties and log4j.properties files.
 * **src/test/java/runner** - This package contains runner class to execute the tests.
-* **src/test/java/stepdef** - This package contains Hooks class which executes before and after every scenario and all the test classes.
+* **src/test/java/stepdef** - This package contains Hooks class which executes before and after every scenario as well all the test classes.
 * **src/test/resources/FeatureFiles** - This package contains all feature files.
 * **target/cucumber_html_report/index.html** - HTML file with the tests results. 
 
@@ -26,29 +26,29 @@ Project Architecture:
 
 Features: 
 -------------
-* @Register - This feature will automate registration functionality scenarios.
-        *  Scenarios:
-		        *   @One. Verify whether the user is able to register into the application by providing all the details.
-				*	@Two. Verify whether the user is not allowed to register due to skipping mandatory fields.
-				*	@Three. Verify whether the user is able to register into the application by opting for the Newsletter Subscription and providing all the details.
-				*	@Four. Verify whether the user is able to register into the application by providing all the details(duplicate email address).
-					
-* @Login - This feature will automate login functionality scenarios.
-        *  Scenarios:
-		        *   @One. Verify whether the User is able to login with valid credentials.
-				*	@Two. Verify whether the User is not able to login with invalid credentials.
-				*	@Three. Verify whether the User is not able to login without providing credentials.
-				*	@Four. Verify whether the User is able to reset the forgotten password.
-
-* @search - This feature will automate search functionality scenarios.
-        *  Scenarios:
-		        *   @One. Verify whether the user is able to search for the products.
-				*	@Two. Verify whether the user is informed when the product being searched is not available.
-					
-* @Orders - This feature will automate End to End ordering Scenarios.
-        *  Scenarios:
-		        *   @One. Verify whether the user is able to place an order.				
-
+* **@Register** - This feature will automate registration functionality scenarios. 
+* **Scenarios:**
+* **@One**   Verify whether the user is able to register into the application by providing all the details.
+* **@Two**   Verify whether the user is not allowed to register due to skipping mandatory fields.
+* **@Three** Verify whether the user is able to register into the application by opting for the Newsletter Subscription and providing all the details.
+* **@Four**  Verify whether the user is able to register into the application by providing all the details(duplicate email address).
+---------		
+* **@Login** - This feature will automate login functionality scenarios.
+* **Scenarios:**
+* **@One**   Verify whether the user is able to login with valid credentials.
+* **@Two**   Verify whether the user is not able to login with invalid credentials.
+* **@Three** Verify whether the user is not able to login without providing credentials.
+* **@Four**  Verify whether the user is able to reset the forgotten password.
+---------
+* **@search** - This feature will automate search functionality scenarios.
+* **Scenarios:**
+* **@One**   Verify whether the user is able to search for the products.
+* **@Two**   Verify whether the user is informed when the product being searched is not available.
+---------			
+* **@Orders** - This feature will automate End to End ordering Scenarios.
+* **Scenarios:**
+* **@One**   Verify whether the user is able to place an order.				
+---------
 					
 
 
