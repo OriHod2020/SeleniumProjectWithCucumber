@@ -81,10 +81,7 @@ public class RegisterPage {
 			Elements.TypeText(email, map.get("Email"));
 		else
 		{
-			//String name = System.currentTimeMillis()+map.get("Email");
-			//Elements.TypeText(RegisterPage.email, name);
 			Elements.TypeText(email, System.currentTimeMillis()+map.get("Email"));
-			
 		}
 			
 	}

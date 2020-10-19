@@ -1,4 +1,4 @@
-Feature: Login functionality scenarios
+Feature: Login Functionality Scenarios
 
 
   @Login @One

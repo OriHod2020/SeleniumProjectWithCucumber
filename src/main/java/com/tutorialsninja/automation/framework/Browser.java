@@ -2,6 +2,8 @@ package com.tutorialsninja.automation.framework;
 
 
 
+import java.util.concurrent.TimeUnit;
+
 import org.apache.log4j.Logger;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -27,30 +29,30 @@ public class Browser {
 		case "chrome":
 			WebDriverManager.chromedriver().setup();
 			Base.driver = new ChromeDriver();
-			log.info("Chrome Browser is Started" + Base.driver.hashCode());
+			log.info("Chrome Browser is Started");
 			return Base.driver;
 
 		case "ie":
 			WebDriverManager.iedriver().setup();
 			Base.driver = new InternetExplorerDriver();
-			log.info("Internet Explorer Browser is Started" + Base.driver.hashCode());
+			log.info("Internet Explorer Browser is Started");
 			return Base.driver;
 
 		case "opera":
 			WebDriverManager.operadriver().setup();
 			Base.driver = new OperaDriver();
-			log.info("Opera Browser is Started" + Base.driver.hashCode());
+			log.info("Opera Browser is Started");
 			return Base.driver;
 
 		case "htmlunit":
 			Base.driver = new HtmlUnitDriver();
-			log.info("HtmlUnit Browser is Started" + Base.driver.hashCode());
+			log.info("HtmlUnit Browser is Started");
 			return Base.driver;
 
 		default:
 			WebDriverManager.firefoxdriver().setup();
 			Base.driver = new FirefoxDriver();
-			log.info("Firefox Browser is Started" + Base.driver.hashCode());
+			log.info("Firefox Browser is Started");
 			return Base.driver;
 		}
 
@@ -58,7 +60,8 @@ public class Browser {
 
 	public static void maximize() {
 		Base.driver.manage().window().maximize();
-	//	Base.driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+		Base.driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+	
 	}
 	
 	public static void openApplicationURL() {

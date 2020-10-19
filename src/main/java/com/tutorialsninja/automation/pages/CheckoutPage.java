@@ -59,9 +59,9 @@ public class CheckoutPage {
 	
 	
 	
-    public static void addBillingDetails() throws InterruptedException {
+    public static void addBillingDetails(){
     	
-		Thread.sleep(10000);
+		
 		if(Elements.isDisplayed(fillFirstName))
 		{
 			

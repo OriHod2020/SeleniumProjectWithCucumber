@@ -1,4 +1,4 @@
-Feature: End to End ordering Scenarios
+Feature: End to End Ordering Scenarios
 
   @Orders @One
 	Scenario: Verify whether the user is able to place an order

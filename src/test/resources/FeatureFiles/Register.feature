@@ -1,4 +1,4 @@
-Feature: Registration functionality scenarios
+Feature: Registration Functionality Scenarios
 
 	@Register @One
 	Scenario: Verify whether the user is able to register into the application by providing all the details

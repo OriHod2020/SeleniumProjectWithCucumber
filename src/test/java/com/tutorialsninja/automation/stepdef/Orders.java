@@ -27,7 +27,7 @@ public class Orders {
 	
 	
 	@Given("^I loging to the application$")
-	public void i_loging_to_the_application() throws InterruptedException{
+	public void i_loging_to_the_application(){
 		
 		Browser.openApplicationURL();
 		HeadersSection.navigateToLoginPage();
@@ -50,7 +50,7 @@ public class Orders {
 	}
 
 	@And("^I place an order$")
-	public void i_place_an_order() throws InterruptedException{
+	public void i_place_an_order(){
 		
 		
 		CheckoutPage.addBillingDetails();

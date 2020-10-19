@@ -1,4 +1,4 @@
-Feature: Search functionality scenarios
+Feature: Search Functionality Scenarios
 
 
   @Search @One
